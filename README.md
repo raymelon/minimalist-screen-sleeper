@@ -27,3 +27,5 @@ Minimalist Screen Sleeper is licensed under the
 GNU General Public License v3.0. 
 
 See more on this app's [`LICENSE.md`](https://github.com/raymelon/minimalist-screen-sleeper/blob/master/LICENSE.md).
+
+[FatCow's](http://www.fatcow.com/) [FatCow Hosting Icons](http://www.softicons.com/toolbar-icons/fatcow-hosting-icons-by-fatcow) [`monitor delete.ico`](http://www.softicons.com/toolbar-icons/fatcow-hosting-icons-by-fatcow/monitor-delete-icon) is licensed under 	[Creative Commons Attribution 3.0 United States](https://creativecommons.org/licenses/by/3.0/us/)
