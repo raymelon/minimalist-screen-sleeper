@@ -1,0 +1,62 @@
+[Project]
+FileName=Minimalist Screen Sleeper v1.0 beta.dev
+Name=Minimalist Screen Sleeper
+Type=1
+Ver=2
+ObjFiles=
+Includes=
+Libs=
+PrivateResource=Minimalist_Screen_Sleeper_v1.0_beta_private.rc
+ResourceIncludes=
+MakeIncludes=
+Compiler=
+CppCompiler=
+Linker=
+IsCpp=0
+Icon=Minimalist Screen Sleeper v1.0 beta.ico
+ExeOutput=
+ObjectOutput=
+LogOutput=
+LogOutputEnabled=0
+OverrideOutput=0
+OverrideOutputName=Minimalist Screen Sleeper v1.0 beta.exe
+HostApplication=
+UseCustomMakefile=0
+CustomMakefile=
+CommandLine=
+Folders=
+IncludeVersionInfo=1
+SupportXPThemes=0
+CompilerSet=6
+CompilerSettings=0000000000000000000000000
+UnitCount=1
+
+[VersionInfo]
+Major=1
+Minor=0
+Release=0
+Build=0
+LanguageID=1033
+CharsetID=1252
+CompanyName=
+FileVersion=1.0 beta
+FileDescription=This command line program turns all your active monitors off.
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=Minimalist Screen Sleeper v1.0 beta
+ProductName=Minimalist Screen Sleeper v1.0 beta
+ProductVersion=1.0 beta
+AutoIncBuildNr=0
+SyncProduct=1
+
+[Unit1]
+FileName=Minimalist Screen Sleeper v 1.0 beta.c
+CompileCpp=0
+Folder=Minimalist Screen Sleeper
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+

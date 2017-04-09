@@ -1,0 +1,37 @@
+Minimalist Screen Sleeper
+version 1.2 beta
+
+by Raymel Francisco
+
+=============================================================
+RELEASE NOTES for version 1.2 beta (Aug. 19, 2014)
+=============================================================
+
+I. Additions
+	1. Added "Turning off monitor..." while the computer is
+	   turning off its monitor.
+
+	2. Slight user interface (UI) changes for more 
+	   readability and convenience.
+
+	3. Pressing any key will not end the program anymore, but will
+	   let the user re-use the program.
+
+	4. Added "Turned off at: <current time>" for easy reference.
+
+	5. Status bar below showing "Tries: <no. of trials>" to show
+	   how many retries a user has done.
+
+	6. Project Options >> Compiler >> Code Generation >>
+		Optimize for...: <Pentium>
+		Optimize less,...: <This CPU or i386>
+		Optimization level: <Highest (fast)>
+		Language standard (-std): <ISO C99>
+---------------------------------------------------------------
+II. Eliminated features
+	1. Pressing any key will close the program.
+---------------------------------------------------------------
+III. Bug fixes
+
+	NONE
+----------------------------------------------------------------

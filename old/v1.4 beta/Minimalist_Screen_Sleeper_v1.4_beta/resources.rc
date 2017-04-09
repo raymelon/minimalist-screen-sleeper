@@ -1,0 +1,33 @@
+#include <windows.h> // include for version info constants
+
+//ICON
+A ICON MOVEABLE PURE LOADONCALL DISCARDABLE "monitoroff.ico"
+
+//VERSIONINFO
+
+1 VERSIONINFO
+FILEVERSION 1,4,0,0
+PRODUCTVERSION 1,4,0,0
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+	 {
+		 BLOCK "080904E4"
+		 {
+			 VALUE "Developer", "Raymel Francisco"
+			 VALUE "FileVersion", "1.4.0.0"
+			 VALUE "FileDescription", "Minimalist Screen Sleeper"
+			 VALUE "InternalName", "Minimalist Screen Sleeper v1.4 beta"
+			 VALUE "LegalCopyright", ""
+			 VALUE "LegalTrademarks", ""
+			 VALUE "OriginalFilename", "Minimalist_Screen_Sleeper_v1.4_beta.exe"
+			 VALUE "ProductName", "Minimalist Screen Sleeper v1.4 beta"
+			 VALUE "ProductVersion", "1.4.0.0 beta"
+			 VALUE "Language", "English (United States)"
+		 }
+	 }
+  BLOCK "VarFileInfo"
+	 {
+		 VALUE "Translation", 0x0809, 1252
+	 }
+}
