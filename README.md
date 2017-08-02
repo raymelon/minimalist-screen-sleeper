@@ -10,7 +10,7 @@ Technically a screen sleeper. For the love of Mother Earth.
 ## How?
 In Windows, it uses [Win32 API's](https://msdn.microsoft.com/en-us/library/windows/desktop/ff818516(v=vs.85).aspx) [`SendMessage()`](https://msdn.microsoft.com/en-us/library/windows/desktop/ms644950(v=vs.85).aspx).
 
-For Linux though, magic is yet to be discovered. Help will be well appreciated in this matter.
+For Linux though, `xset dpms force off` command is used.
 
 ## Tips for best experience
 
@@ -21,6 +21,7 @@ For Linux though, magic is yet to be discovered. Help will be well appreciated i
 - August 2014 - Initial Development (v1.0 - v1.4)
 - November 2015 - Conversion to Vala (v1.5)
 - April 2017 - GitHub debut
+- August 2017 - Linux support (v1.6)
 
 ## License
 Minimalist Screen Sleeper is licensed under the
