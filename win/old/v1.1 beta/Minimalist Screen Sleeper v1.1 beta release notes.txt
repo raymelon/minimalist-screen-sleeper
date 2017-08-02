@@ -1,0 +1,35 @@
+Minimalist Screen Sleeper
+version 1.1 beta
+
+by Raymel Francisco
+
+=============================================================
+RELEASE NOTES for version 1.1 beta (Aug. 16, 2014)
+=============================================================
+
+I. Additions
+
+	1. ABOUT at program's end to show the program's 
+	   information.
+
+	2. Slight user interface (UI) changes for more 
+	   readability and convenience.
+
+	3. Added copyright for the source code and icon.
+---------------------------------------------------------------
+II. Eliminated features
+	NONE
+---------------------------------------------------------------
+III. Bug fixes
+
+	1. "Sleep(500);" was added after
+
+	   "SendMessage(HWND_BROADCAST, WM_SYSCOMMAND, SC_MONITORPOWER, (LPARAM) 2);"
+
+	   to delay the output showing all monitors are turned on 
+	   by half a second, in order to fix the bug wherein the
+	   said output was shown before the screen turns off fully.
+
+	   It's just awkward that your monitor hasn't been turned off
+	   then the program says that it turned on already.
+----------------------------------------------------------------

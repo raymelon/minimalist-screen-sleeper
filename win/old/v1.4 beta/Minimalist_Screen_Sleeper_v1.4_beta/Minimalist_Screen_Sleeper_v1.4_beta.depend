@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1415014858 source:f:\documents\random files\c++ creations\dev c++ (2014 onwards)\minimalist screen sleeper by raymel francisco\codeblocks versions\v1.4 beta\minimalist_screen_sleeper_v1.4_beta\main.cpp
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+	<fstream>
+	<winable.h>
+
+1414249181 source:f:\documents\random files\c++ creations\dev c++ (2014 onwards)\minimalist screen sleeper by raymel francisco\codeblocks versions\v1.4 beta\minimalist_screen_sleeper_v1.4_beta\resources.rc
+	<windows.h>
+
